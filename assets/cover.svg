@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640" role="img" aria-labelledby="title desc">
+  <title id="title">Personal Dictionary</title>
+  <desc id="desc">Local-first AI vocabulary learning desktop application</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f2fb"/>
+      <stop offset="1" stop-color="#e7ddf3"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#55476e" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="640" rx="48" fill="url(#bg)"/>
+  <circle cx="1270" cy="315" r="166" fill="#76639a" filter="url(#shadow)"/>
+  <circle cx="1020" cy="190" r="92" fill="#d7c9e8" stroke="#8f79b2" stroke-width="4"/>
+  <circle cx="1020" cy="440" r="92" fill="#d7c9e8" stroke="#8f79b2" stroke-width="4"/>
+  <circle cx="1490" cy="205" r="78" fill="#eee8f5" stroke="#a18dbd" stroke-width="4"/>
+  <circle cx="1480" cy="430" r="78" fill="#eee8f5" stroke="#a18dbd" stroke-width="4"/>
+  <g stroke="#8f79b2" stroke-width="5" opacity="0.75">
+    <line x1="1110" y1="220" x2="1170" y2="265"/>
+    <line x1="1110" y1="415" x2="1170" y2="365"/>
+    <line x1="1417" y1="250" x2="1385" y2="275"/>
+    <line x1="1410" y1="400" x2="1382" y2="375"/>
+  </g>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif" text-anchor="middle">
+    <text x="1270" y="306" font-size="54" font-weight="700" fill="#ffffff">word</text>
+    <text x="1270" y="356" font-size="26" fill="#eee8f5">center</text>
+    <text x="1020" y="180" font-size="25" font-weight="650" fill="#594b73">词族</text>
+    <text x="1020" y="213" font-size="18" fill="#76639a">word family</text>
+    <text x="1020" y="430" font-size="25" font-weight="650" fill="#594b73">近义</text>
+    <text x="1020" y="463" font-size="18" fill="#76639a">synonym</text>
+    <text x="1490" y="215" font-size="22" font-weight="650" fill="#594b73">topic</text>
+    <text x="1480" y="440" font-size="22" font-weight="650" fill="#594b73">context</text>
+  </g>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="110" y="190" font-size="82" font-weight="760" fill="#352c45">Personal Dictionary</text>
+    <text x="114" y="258" font-size="34" font-weight="600" fill="#76639a">个人词典</text>
+    <text x="114" y="330" font-size="27" fill="#594f68">本地优先 · 结构化复习 · 多关系图谱 · 审阅后写入</text>
+    <g transform="translate(112 392)">
+      <rect width="206" height="58" rx="29" fill="#76639a"/>
+      <text x="103" y="38" font-size="21" font-weight="650" text-anchor="middle" fill="#fff">Review-first AI</text>
+      <rect x="222" width="176" height="58" rx="29" fill="#ffffff" stroke="#b7a7cd" stroke-width="2"/>
+      <text x="310" y="38" font-size="21" font-weight="650" text-anchor="middle" fill="#594b73">Local-first</text>
+      <rect x="414" width="188" height="58" rx="29" fill="#ffffff" stroke="#b7a7cd" stroke-width="2"/>
+      <text x="508" y="38" font-size="21" font-weight="650" text-anchor="middle" fill="#594b73">Windows App</text>
+    </g>
+  </g>
+</svg>

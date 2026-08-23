@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.env.*
+*.key
+*.pem
+private/
+releases/
+real-vault/
+backups/
+ai-tasks/

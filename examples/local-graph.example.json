@@ -1,0 +1,13 @@
+{
+  "center": "digitize",
+  "groups": [
+    {
+      "type": "word-family",
+      "items": ["digital", "digitalize"]
+    },
+    {
+      "type": "same-topic",
+      "items": ["technology", "data", "network"]
+    }
+  ]
+}

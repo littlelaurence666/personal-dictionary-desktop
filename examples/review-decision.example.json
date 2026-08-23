@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "task_id": "demo-task",
+  "decisions": [
+    {
+      "entry_id": "english:digitize",
+      "action": "add",
+      "reviewed": true
+    },
+    {
+      "entry_id": "chinese:保持-维持",
+      "action": "preserve",
+      "reviewed": true
+    }
+  ]
+}
