@@ -9,6 +9,8 @@
 > 当前展示版本：Windows `v0.5.7`
 > 仓库定位：产品与工程能力展示。为保护用户数据和后续商业化，本仓库不公开完整核心源码、提示词、真实词库、密钥或备份。
 
+[下载最新 Windows 版本](https://github.com/littlelaurence666/personal-dictionary-desktop/releases/latest)
+
 ![词汇复习界面](assets/vocabulary-review.png)
 
 ## 为什么做这个产品
