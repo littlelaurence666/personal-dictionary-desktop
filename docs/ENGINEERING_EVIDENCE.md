@@ -2,7 +2,7 @@
 
 ## 已验证
 
-- 桌面端 Vitest：43 项测试通过。
+- 桌面端 Vitest：46 项测试通过。
 - React/TypeScript 渲染层构建通过。
 - Electron main/preload TypeScript 构建通过。
 - PyInstaller Python sidecar 构建通过。
