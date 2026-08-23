@@ -7,7 +7,7 @@
 > 当前界面展示：Windows 开发版 `v0.5.8`
 > 本仓库用于产品与工程能力展示，不公开完整商业核心源码、提示词、真实用户数据、API 密钥和备份。
 
-[下载 Windows 版本](https://github.com/littlelaurence666/personal-dictionary-desktop/releases/latest) · [查看架构说明](docs/ARCHITECTURE.md) · [查看产品复盘](docs/PRODUCT_CASE_STUDY.md)
+**导师快速入口：** [3–5 分钟了解项目](README_FOR_MENTOR.md) · [下载 Windows 版本](https://github.com/littlelaurence666/personal-dictionary-desktop/releases/latest) · [架构说明](docs/ARCHITECTURE.md) · [产品复盘](docs/PRODUCT_CASE_STUDY.md)
 
 ## 不安装，也能看懂完整产品
 
