@@ -1,5 +1,8 @@
 # Personal Dictionary v0.5.9
 
+> **请改用 [v0.5.10](https://github.com/littlelaurence666/personal-dictionary-desktop/releases/tag/v0.5.10)。**
+> v0.5.9 的 Squirrel 安装器无法可靠处理演示词库中的中文文件名，安装版可能失败；v0.5.10 已更换为 Unicode NSIS 并完成安装、启动和卸载验证。
+
 这是包含默认“演示词库”的 Windows 协作测试版本。
 
 - 首次启动自动绑定 102 项演示词库，无需手动选择文件夹。
