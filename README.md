@@ -4,7 +4,7 @@
 
 它不只回答“这个词翻译成什么”，而是继续回答：几个相近表达究竟差在哪里、分别适合什么语境、怎样用于写作，以及它们如何与已经学过的词建立联系。
 
-> 当前界面展示：Windows 开发版 `v0.5.9`
+> 当前界面展示：Windows 开发版 `v0.5.10`
 > 本仓库用于产品与工程能力展示，不公开完整商业核心源码、提示词、真实用户数据、API 密钥和备份。
 
 [项目概览](PROJECT_OVERVIEW.md) · [下载 Windows 版本](https://github.com/littlelaurence666/personal-dictionary-desktop/releases/latest) · [架构说明](docs/ARCHITECTURE.md) · [产品复盘](docs/PRODUCT_CASE_STUDY.md)
@@ -120,7 +120,7 @@ flowchart LR
 | 本地核心 | Python 3.11 | 解析、校验、索引、快照、导入与恢复 |
 | 数据 | Markdown + JSON 索引 | 可读、可迁移的个人词库与关系数据 |
 | 质量 | Vitest + Python tests | UI 合同、关系逻辑、导入、备份与恢复验证 |
-| 打包 | PyInstaller + Electron Forge | Python sidecar 与 Windows 安装/免安装版本 |
+| 打包 | PyInstaller + Electron Forge + NSIS | Python sidecar 与 Windows 安装/免安装版本 |
 
 ## 关键工程决策
 
@@ -131,7 +131,7 @@ flowchart LR
 5. **失败必须可恢复。** 写入和恢复均围绕快照、索引重建与校验设计。
 
 ## 当前工程状态
-
+- Python 本地核心 `115` 项自动化测试通过。
 - 桌面端 `46` 项自动化测试通过。
 - React / TypeScript / Electron 正式构建通过。
 - Windows 安装版与免安装版均已完成打包。
