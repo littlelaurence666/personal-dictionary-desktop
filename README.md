@@ -4,7 +4,7 @@
 
 它不只回答“这个词翻译成什么”，而是继续回答：几个相近表达究竟差在哪里、分别适合什么语境、怎样用于写作，以及它们如何与已经学过的词建立联系。
 
-> 当前界面展示：Windows 开发版 `v0.5.11`
+> 当前界面展示：Windows 开发版 `v0.5.12`
 > 本仓库用于产品与工程能力展示，不公开完整商业核心源码、提示词、真实用户数据、API 密钥和备份。
 
 [项目概览](PROJECT_OVERVIEW.md) · [下载 Windows 版本](https://github.com/littlelaurence666/personal-dictionary-desktop/releases/latest) · [架构说明](docs/ARCHITECTURE.md) · [产品复盘](docs/PRODUCT_CASE_STUDY.md)
