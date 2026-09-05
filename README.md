@@ -9,6 +9,8 @@
 
 [项目概览](PROJECT_OVERVIEW.md) · [下载 Windows 版本](https://github.com/littlelaurence666/personal-dictionary-desktop/releases/latest) · [架构说明](docs/ARCHITECTURE.md) · [产品复盘](docs/PRODUCT_CASE_STUDY.md)
 
+**稳定性检查版 v0.5.13：** [下载免安装检查版](https://github.com/littlelaurence666/personal-dictionary-desktop/releases/tag/v0.5.13) · [查看修复与验证范围](docs/STABILITY_0.5.13.md)。内置演示词库，供试用反馈；当前正式版仍保留在上方下载入口。
+
 ## 不安装，也能看懂完整产品
 
 ### 1. 完整词汇工作台
